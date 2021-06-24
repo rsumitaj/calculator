@@ -18,6 +18,8 @@
   border: 2px solid rgb(245,244,244);
 }
 
+
+
 .buttons{
   text-align: center;
   background-color: rgb(255,254,254);
@@ -44,4 +46,8 @@
   color: white;
   border-color:rgb(193,69,69) ;
   background-color: rgb(193,69,69);
+}
+
+footer{
+  text-align: right;
 }
